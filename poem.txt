@@ -1,20 +1,12 @@
 The Rainbow
 
- red is cool
- Unicorn
- orange - my favourite color
- Unicorn
+ red
+ orange
  yellow
- Unicorn
  green
- whatever color
- Unicorn
- blue
- Unicorn
- indigo - what color is this?
+ indigo
  Unicorn
  violet
  Unicorn
  
- Boom, rainbow! And unicorns!
- Don't forget the ponies!
+ Boom, rainbow!
