@@ -5,7 +5,7 @@ The Rainbow
  yellow
  green
  blue
- indigo
+ indigo - what color is this?
  violet
  
  Boom, rainbow!
